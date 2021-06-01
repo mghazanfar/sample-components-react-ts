@@ -1,0 +1,1 @@
+export const dataTableStyles = {root:{ marginTop: 32 }}
